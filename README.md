@@ -1,2 +1,3 @@
 # hello-world
-A privicy repository .
+A privacy repository .
+Spelling recorrected .
